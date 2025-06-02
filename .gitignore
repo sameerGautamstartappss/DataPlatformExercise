@@ -1,0 +1,9 @@
+# Ignore Docker volumes
+mysql_data/
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
